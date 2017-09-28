@@ -1,0 +1,58 @@
+PC v. Mac
+# title slide
+
+By:
+Theodore Tubbs
+#author slide
+
+# First argument slide
+Support:
+ - You know when you buy Apple™ hardware that most of the time you won't need to fuss around with
+    - drivers
+    - incompatible hardware
+    - etc
+- Though updates CAN cause driver issues (like any OS)
+
+@pics/no10.png
+# picture slide
+
+# Second argument slide
+A UNIX/NeXT/FreeBSD base:
+- OS X was first based off of System 9 and NeXTSTEP
+    - NeXTSTEP was a UNIX based OS originally developed in the late 80's early 90's
+- Most Userland utilities and the C library on OS X are derived from FreeBSD
+- XNU kernel for OS X includes older version of FreeBSD subsystems
+
+
+
+# screenshot of OS X
+@pics/osxscrot.png
+
+# Third argument slide
+Security:
+- OS X isn't invincible, but it does a damn good job 
+    - only ~120 viruses (2012)
+- Adopts Rich security benefits from having a UNIX/FreeBSD base
+- Most crackers target Windows™
+    - There are about 60,000 viruses known for Windows™ (in 2003)
+
+# graph of some virus statistics
+@pics/virussigs.png
+
+# Sources slide
+Sources:
+- https://wiki.freebsd.org/Myths
+- http://www.kevra.org/TheBestOfNext/DifferentNeXTSpellings/DifferentNeXTSpellings.html
+- https://i.imgur.com/rcNFbKi.jpg (thanks to u/selfup on r/unixporn)
+- https://securelist.com/files/2012/12/ksb_stat2012_pic06.png (Kaspersky Lab)
+- http://www.govtalk.gov.uk/documents/QinetiQ_OSS_rep.pdf (Dr. Nic Peeling and Dr Julian Satchell's)
+- http://www.theregister.co.uk/2003/10/06/linux_vs_windows_viruses/ (2003)
+
+# Thanks to slide
+Thanks to:
+- Johnathan "ShaggyTwoDope" Jenkins
+- Ryan "DragonKeeper"
+- Eddie B. "Acou_Bass"
+- Brian Tomlinson "Darthlukan"
+- Others at #nixheads who I forgot to mention
+- Corey Huggins
